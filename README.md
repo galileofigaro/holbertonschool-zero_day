@@ -1,0 +1,1 @@
+This is the first project for Holberton. I am setting up Git and GitHub at the time of writing.
