@@ -1,0 +1,1 @@
+This project is to familiarize myself with Git and navigating the shell.
