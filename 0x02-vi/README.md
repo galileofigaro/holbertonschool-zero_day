@@ -1,0 +1,1 @@
+This project is intended to familiarize myself with GitHub, as well as memorize some basic commands in the vi editor.
